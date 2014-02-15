@@ -7,4 +7,4 @@ layout: default
 
 #Your NECTAR account
 
-http://nectar.northampton.ac.uk
+Log in at [http://nectar.northampton.ac.uk]

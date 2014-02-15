@@ -1,8 +1,9 @@
 body {
-  padding:50px;
+  padding:10px 50px;
   font:18px/1.5 Arial, Helvetica, sans-serif;
   color:#555;
 }
 h1 {
-	color: #009;
+	color: #555;
+	border-bottom: 2px solid #555;
 }
