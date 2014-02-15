@@ -7,8 +7,4 @@ layout: default
 
 #Title: {{ page.title }}
 
-Log in at [http://nectar.northampton.ac.uk]
-
-Footer should follow...
-
-{% include footer.html %}
+- Log in at [http://nectar.northampton.ac.uk]
