@@ -5,6 +5,6 @@ layout: default
 
 [Home](index.html)
 
-#Your NECTAR account
+#{ {page.title }}
 
 Log in at [http://nectar.northampton.ac.uk]
