@@ -9,4 +9,6 @@ layout: default
 
 Log in at [http://nectar.northampton.ac.uk]
 
+Footer should follow...
+
 {% include footer.html %}
