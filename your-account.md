@@ -7,4 +7,4 @@ layout: default
 
 #Your NECTAR account
 
-{% include footer.html %}
+http://nectar.northampton.ac.uk
