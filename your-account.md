@@ -5,4 +5,6 @@ layout: default
 
 [Home](index.html)
 
-#{{ title }}
+#Your NECTAR account
+
+{% include footer.html %}
