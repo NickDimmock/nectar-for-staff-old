@@ -8,3 +8,5 @@ layout: default
 #{ {page.title }}
 
 Log in at [http://nectar.northampton.ac.uk]
+
+{% include footer.html %}
