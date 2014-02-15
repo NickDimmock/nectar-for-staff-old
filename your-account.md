@@ -5,7 +5,7 @@ layout: default
 
 [Home](index.html)
 
-#{ {page.title }}
+#Title: {{ page.title }}
 
 Log in at [http://nectar.northampton.ac.uk]
 
