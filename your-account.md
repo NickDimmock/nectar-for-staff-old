@@ -5,4 +5,4 @@ layout: default
 
 [Home](index.html)
 
-#Your account
+#{{ title }}
