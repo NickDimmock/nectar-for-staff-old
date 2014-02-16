@@ -1,34 +1,45 @@
 body {
-  padding: 10px 50px;
+  background: #222;
   font-family: "Open Sans", Arial, Helvetica, sans-serif;
-  color: #444;
+  color: #ccc;
+}
+#page {
+	margin: 4em 8%;
+	background: #333232;
+	border-radius: 8px;
+	padding: 1em;
 }
 h1 {
-	margin: 2px;
+	margin: 0;
+	padding: 0;
 }
 h1 a {
-	padding: 4px;
+	font-size: 150%;
+	color: #fff;
+	background: #333232;
 	text-decoration: none;
 }
 h1 a:hover {
-	background: #fa0;
+	color: #f9d900;
+}
+h2 {
+	color: #fff;
+}
+a {
+	color: #f9d900;
+}
+a:hover {
+	color: #f60;
 }
 #footer {
 	border-top: 2px solid #000;
 	padding-top: 1em;
 }
 #header {
-	background: #fc0;
-	padding: 4px;
-	border-bottom: 2px solid #000;
+	border-bottom: 1px solid #fff;
 }
-#nav {
-	padding: 8px;
+img {
+	border: 2px solid #000;
+	border-radius: 10px;
 }
-#nav a{
-	color: #444;
-	text-decoration: none;
-}
-#nav a:hover {
-	color: #000;
-}
+
