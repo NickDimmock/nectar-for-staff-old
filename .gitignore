@@ -216,3 +216,5 @@ pip-log.txt
 
 # Local testing
 test/
+# Don't upload rendered jekyll tests
+_site
