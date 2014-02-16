@@ -4,19 +4,22 @@ body {
   color: #444;
 }
 h1 {
-	color: #fc0;
-	border-bottom: 2px solid #000;
+	color: #444;
+	margin-bottom: 0;
 }
 #footer {
 	border-top: 2px solid #000;
 	padding-top: 1em;
 }
 #header {
-	background: #333;
+	background: #fc0;
+	padding: 4px;
+	border-bottom: 2px solid #000;
 }
 #nav a{
-	color: #fc0;
+	color: #444;
+	text-decoration: none;
 }
 #nav a:hover {
-	color: #f90;
+	color: #000;
 }
