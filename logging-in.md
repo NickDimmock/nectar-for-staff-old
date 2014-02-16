@@ -1,6 +1,8 @@
 ---
 title: Logging in
 layout: default
+crumbs:
+ - Home: ./
 ---
 
 Log in from the NECTAR homepage at <http://nectar.northampton.ac.uk>. The login link is at the top of the left-hend menu:

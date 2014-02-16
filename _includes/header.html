@@ -1,5 +1,6 @@
 <div id="header">
-<h1><a href="/nectar-for-staff/" title="Go to the NECTAR for staff start page.">NECTAR for Staff</a></h1>
+<h1><a href="./" title="Go to the NECTAR for staff start page.">NECTAR for Staff</a></h1>
 </div>
 <div id="content">
+{% if page.crumbs %}<div id="crumbs">{% for crumb_hash in page.crumbs %}{% for crumb in crumb_hash %}<a href="{{ crumb[1] }}">{{ crumb[0] }}</a> &gt; {% endfor %}{% endfor %}{{ page.title }}</div>{% endif %}
 <h2>{{ page.title }}</h2>
