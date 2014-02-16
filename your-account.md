@@ -3,10 +3,6 @@ title: Your NECTAR account
 layout: default
 ---
 
-[Home](index.html)
-
-#Title: {{ page.title }}
-
 ##Logging in
 - Log in at <http://nectar.northampton.ac.uk>
 
