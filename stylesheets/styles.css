@@ -36,6 +36,12 @@ a:hover {
 	margin: 2em 8% 4% 8%;
 	color: #fff;
 }
+#footer a {
+	color: #fff;
+}
+#footer a:hover {
+	color: #ffcc00;
+}
 #header {
 	margin: 2% 8% 1em 8%;
 }

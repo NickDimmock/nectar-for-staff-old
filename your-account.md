@@ -1,12 +1,8 @@
 ---
-title: Your NECTAR account
+title: Logging in
 layout: default
 ---
 
-##Logging in
-- Log in at <http://nectar.northampton.ac.uk>
+Log in from the NECTAR homepage at <http://nectar.northampton.ac.uk>. The login link is at the top of the left-hend menu:
 
-##Changing your password
-- Click the **Profile** link in the top menu
-- Click the **Edit** button
-- Enter your new password and click **Save**
+![The NECTAR login link is located at the top of the left-hand menu.](/images/login-link.png "NECTAR login link")
